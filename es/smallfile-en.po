@@ -1,34 +1,34 @@
 #: /views/partials/case-band.j2:6 /views/partials/case-band.j2:7
 msgid "A screenshot of a website using AMP."
-msgstr ""
+msgstr "LALALA"
 
 #: /views/partials/format-visuals/websites.j2:10
 msgid "A screenshot showing amp-sidebar."
-msgstr ""
+msgstr "HOHOHOH"
 
 #: /views/partials/format-visuals/websites.j2:7
 msgid "A website screenshot."
-msgstr ""
+msgstr "i"
 
 #: /views/partials/footer.j2:74
 msgid "AMP Brand Materials"
-msgstr ""
+msgstr "AM"
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/amp-caches-and-cors/_blueprint.yaml
 msgid "AMP Caches & CORS"
-msgstr ""
+msgstr "The"
 
 #: /views/partials/footer.j2:71
 msgid "AMP Conf 2020"
-msgstr ""
+msgstr "One"
 
 #: /views/partials/footer.j2:72
 msgid "AMP Contributor Summit 2019"
-msgstr ""
+msgstr "And"
 
 #: /views/partials/banner.j2:5
 msgid "AMP Contributor Summit 2019 Applications Now Open"
-msgstr ""
+msgstr "Only"
 
 #: /views/partials/footer.j2:43
 msgid "AMP Framework"
