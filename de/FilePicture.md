@@ -1,9 +1,6 @@
 adfsgswrghrg
 
-Erster Header | Zweiter Header
---- | ---
-Inhaltszelle | Inhaltszelle
-Inhaltszelle | Inhaltszelle
+
 
 Erster Header | Zweiter Header
 --- | ---
@@ -18,7 +15,7 @@ Spalte 3 ist | ein wortreicher Text | **$ 1600**
 Spalte 2 ist | zentriert | $ 12
 Zebrastreifen | sind ordentlich | ~~ $ 1 ~~
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
+
 
 - Type some Markdown on the left
 - Siehe HTML rechts
